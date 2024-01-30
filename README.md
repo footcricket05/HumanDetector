@@ -62,8 +62,15 @@ HumanDetector is a versatile Python-based tool for real-time human detection and
 
 4. To generate a crowd report, click the `Generate Crowd Report` button.
 
+
 ## Start Page
 
+![image](https://github.com/footcricket05/HumanDetector/assets/93007427/04ccefd0-4940-47ac-823e-2e81c99f020e)
+
+
+## Options Page
+
+![image](https://github.com/footcricket05/HumanDetector/assets/93007427/a8baf90b-fca4-424d-a07d-36a24c8a3326)
 
 
 ## Contributors
