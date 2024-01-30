@@ -41,24 +41,5 @@ This script simplifies real-time human detection and counting in images, videos,
 3. Run `main.py` on your local system.
 4. Explore the application and perform human detection and counting.
 
-## 📷 Screenshots:
-
-**Image Detection:**
-
-![Image 1](Screenshots/3.jpg)
-![Image 2](Screenshots/4.jpg)
-![Image 3](Screenshots/5.jpg)
-
-**Video Detection:**
-
-![Video 1](Screenshots/13.jpg)
-![Video 2](Screenshots/14.jpg)
-![Video 3](Screenshots/15.jpg)
-
-**Camera Detection:**
-
-![Camera 1](Screenshots/18.jpg)
-![Camera 2](Screenshots/19.jpg)
-![Camera 3](Screenshots/20.jpg)
 
 
