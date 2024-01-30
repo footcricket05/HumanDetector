@@ -2,8 +2,6 @@
 
 HumanDetector is a versatile Python-based tool for real-time human detection and counting using the Faster R-CNN Inception v2 model. It empowers users to effortlessly analyze images, videos, and camera feeds for human presence. Whether for surveillance, crowd monitoring, or any other application, HumanDetector has you covered.
 
-![Human Detection](https://github.com/footcricket05/HumanDetector/blob/main/Screenshots/1.jpg)
-
 ## Features
 
 - **Real-time Detection:** HumanDetector provides real-time human detection and counting capabilities for images, videos, and live camera feeds.
