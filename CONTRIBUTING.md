@@ -11,7 +11,7 @@ If you'd like to contribute to HumanDetector, follow these steps:
 2. **Clone Your Fork:** Clone the repository from your GitHub account to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/HumanDetector.git
+   git clone https://github.com/footcricket05/HumanDetector.git
    cd HumanDetector
    ```
 
